@@ -2,5 +2,5 @@
 count = 5
 [choreo.greeting_service.myType]
 name = "greeting_service"
-[choreo.greeting_service.myType.failoverConfig]
+# [choreo.greeting_service.myType.failoverConfig]
 # [[choreo.greeting_service.myType.failoverConfig.failoverServers]]
